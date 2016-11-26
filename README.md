@@ -1,3 +1,9 @@
+# ATTENTION!
+
+**This function has been eaten ([here](https://github.com/ben519/trinalysis/blob/master/R/sample_transactions.R)) by my R package [trinalysis](https://github.com/ben519/trinalysis) which has many useful methods for working with transaction data.**
+
+---
+
 # SampleTransactions
 
 Single R function to generate random transaction data such that the simulated data has a (somewhat) realistic pattern of customer churn.
